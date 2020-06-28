@@ -22,4 +22,4 @@ by reading the slides online, students' notes, and the textbooks.
 
 -   [Crowdsourced class notes PDF files](https://web.stanford.edu/class/cs231a/course_notes.html)
 
-All credits go to Silvio Savarese and all the contributors to the CS231A notes. Thank you for teaching such a great computer vision course and for making CS131 accessible to everyone!
+All credits go to Prof. Silvio Savarese and Kenji Hata who worked on the crowdsourced CS231A notes. Thank you for teaching such a great computer vision course and for making CS231A accessible to everyone!
